@@ -1,6 +1,6 @@
 # dusty_dust
 
-A new Flutter project.
+정부 API 사용하여 시간별 대기질, 상태 조회 앱
 
 ## Getting Started
 
